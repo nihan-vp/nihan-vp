@@ -1,6 +1,4 @@
 
-
---
 # 💫 About Me
 Hi, I'm Nihan Ali!  
 🔭 **Currently Working On:**  
