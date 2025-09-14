@@ -68,13 +68,13 @@ Flutter, IoT, video editing, PCB design and graphic designing.
 ---
 
 ## 📊 GitHub Stats
-![Nihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihan-ali-vp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-ali-vp&layout=compact&theme=radical)
+![Nihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihan-vp&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihan-vp&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nihan-ali-vp&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nihan-vp&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -84,7 +84,7 @@ Flutter, IoT, video editing, PCB design and graphic designing.
 ---
 
 ## 🔝 Top Contributed Repo
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nihan-ali-vp&limit=1&theme=radical)](https://github.com/nihan-ali-vp?tab=repositories)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nihan-ali-vp&limit=1&theme=radical)](https://github.com/nihan-vp?tab=repositories)
 
 ---
 
