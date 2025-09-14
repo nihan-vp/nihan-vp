@@ -84,7 +84,7 @@ Flutter, IoT, video editing, PCB design and graphic designing.
 ---
 
 ## 🔝 Top Contributed Repo
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nihan-ali-vp&limit=1&theme=radical)](https://github.com/nihan-vp?tab=repositories)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nihan-vp&limit=1&theme=radical)](https://github.com/nihan-vp?tab=repositories)
 
 ---
 
